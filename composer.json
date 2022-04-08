@@ -1,5 +1,5 @@
 {
-  "name": "optimistdigital/packagist-test",
+  "name": "outl1ne/packagist-test",
   "description": "Packagist test.",
   "keywords": [
     "laravel",
@@ -12,7 +12,7 @@
       "role": "Developer"
     },
     {
-      "name": "Optimist Digital",
+      "name": "Outl1ne",
       "email": "info@optimistdigital.com",
       "role": "Maintainer"
     }
